@@ -1,0 +1,112 @@
+body{
+  font-size: 20px;
+  background: rgb(253, 251, 251);
+  font-family:monospace;
+}
+h1{
+  margin: 25px;
+  font-size: 25px;
+  width: 34px;
+}
+
+.hop{
+  position: absolute;
+  margin: auto;
+  top: 20px;
+  bottom: 4px;
+  left: 800px;
+}
+.top{
+  position: absolute;
+  margin: auto;
+  top: 20px;
+  left: 940px;
+}
+.toto{
+  position: absolute;
+  margin: auto;
+  top: 20px;
+  left: 1100px;
+}
+.label{
+  position: absolute;
+  margin: auto;
+  top: 100px;
+  left: 400px;
+  font-size:20px;
+  font-family:monospace;
+
+}
+
+.images {
+      position: absolute;
+      top: 260px;
+      left: 300px;
+      font-family:monospace;
+     
+}
+.vido {
+  position: absolute;
+  top: 580px;
+  left: 490px;
+}
+
+.box-1{
+   position: absolute;
+  top: 850px;
+  right: 1100px;
+  border: 1px solid;
+  
+}
+
+.box-2{
+  position: absolute;
+ top: 850px;
+ right: 900px;
+ border: 1px solid;
+ 
+}
+.box-3{
+position: absolute;
+ top: 850px;
+ right: 623px;
+ border: 1px solid ;
+}
+
+# fair-1{
+   float:left;
+   margin: 60px;
+}
+
+}
+# car-2{
+  float:left;
+  
+}
+
+# gold-3{
+  float:left;
+}
+.footer{
+padding: 10px;
+text-align: right;
+background-color: rgb(207, 206, 195);
+width: 1650px;
+
+}
+.select{
+  background-color: yellow;
+}
+.footer{
+  position: absolute;
+  top: 1100px;
+
+}
+#hade{
+  border: 0px solid;
+  text-align: center;
+
+}
+.para-1{
+  text-align: center;
+}
